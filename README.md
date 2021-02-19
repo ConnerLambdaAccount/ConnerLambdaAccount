@@ -1,15 +1,15 @@
-### Welcome <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Welcome <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 ## Thanks for checking out my Github, I'm Conner.
 
-# About Me
+### About Me
 
 📱 &nbsp; Developing iOS mobile apps within teams.<br/>
 🎓 &nbsp; Studying Computer Science and iOS App Development at Lambda School.<br/>
 🌱 &nbsp; Learning more about algorithms and data structures.<br/>
 ❗ &nbsp; Studying web and binary cybersecurity vulnerabilites on the side.<br/>
 
-# Current Tech Stack
+### Current Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=FF9900)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -25,4 +25,3 @@
 **Contact:**<br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/conner-wells)](https://www.linkedin.com/in/conner-wells)
-[![Email](https://img.shields.io/badge/-Email?style=flat-square&logo=Email&logoColor=white&link=0xconr@protonmail.com)](0xconr@protonmail.com)
