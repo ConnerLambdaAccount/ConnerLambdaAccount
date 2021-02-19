@@ -7,7 +7,7 @@
 🌱 &nbsp; Learning more about algorithms and data structures.<br/>
 ❗ &nbsp; Studying web and binary cybersecurity vulnerabilites on the side.<br/>
 
-### Current Tech Stack
+### Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=FF9900)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
