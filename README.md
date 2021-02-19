@@ -1,4 +1,4 @@
-# Welcome <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Conner.
+# Welcome <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Conner.
 
 ### About Me
 
