@@ -2,7 +2,7 @@
 
 ### About Me
 
-📱 &nbsp; Developing iOS mobile apps within teams.<br/>
+📱 &nbsp; Currently developing iOS mobile apps within teams.<br/>
 🎓 &nbsp; Studying Computer Science and iOS App Development at Lambda School.<br/>
 🌱 &nbsp; Learning more about algorithms and data structures.<br/>
 ❗ &nbsp; Studying web and binary cybersecurity vulnerabilites on the side.<br/>
